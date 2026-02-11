@@ -1,2 +1,2 @@
-# preciousmoswana.github.io
+# preciousm.github.io
 My First Repository
